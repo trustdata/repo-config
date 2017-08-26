@@ -1,0 +1,35 @@
+{
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "nyc _mocha test",
+    "jsdoc": "jsdoc -c jsdoc.json -r",
+    "coverage": "nyc --reporter=lcov _mocha test"
+  },
+  "author": "MIT Connection Science",
+  "license": "MIT",
+  "contributors": [
+    {
+      "name": "Christian Smith",
+      "email": "smith@anvil.io",
+      "url": "http://anvil.io"
+    },
+    {
+      "name": "Greg Linklater",
+      "email": "greg@gryphus.io",
+      "url": "https://github.com/EternalDeiwos"
+    },
+    {
+      "name": "Ioan Budea",
+      "url": "https://github.com/johnny90"
+    },
+    {
+      "name": "Dmitri Zagidulin",
+      "url": "https://github.com/dmitrizagidulin"
+    },
+    {
+      "name": "JC Bailey",
+      "url": "https://github.com/thelunararmy"
+    }
+  ]
+}

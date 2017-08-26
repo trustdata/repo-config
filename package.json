@@ -1,0 +1,48 @@
+{
+  "name": "@trust/configure",
+  "version": "0.0.0",
+  "description": "A script to add default configuration to new @trust repositories.",
+  "bin": {
+    "trust-configure": "./script.sh"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trustdata/repo-config.git"
+  },
+  "keywords": [
+    "trust",
+    "repository"
+  ],
+  "author": "MIT Connection Science",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trustdata/repo-config/issues"
+  },
+  "homepage": "https://github.com/trustdata/repo-config#readme",
+  "contributors": [
+    {
+      "name": "Christian Smith",
+      "email": "smith@anvil.io",
+      "url": "http://anvil.io"
+    },
+    {
+      "name": "Greg Linklater",
+      "email": "greg@gryphus.io",
+      "url": "https://github.com/EternalDeiwos"
+    },
+    {
+      "name": "Ioan Budea",
+      "url": "https://github.com/johnny90"
+    },
+    {
+      "name": "Dmitri Zagidulin",
+      "url": "https://github.com/dmitrizagidulin"
+    },
+    {
+      "name": "JC Bailey",
+      "url": "https://github.com/thelunararmy"
+    }
+  ]
+}
